@@ -1,1 +1,1 @@
-# nlp_exampls
+repository for some nlp test tasks
